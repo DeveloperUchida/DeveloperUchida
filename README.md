@@ -1,3 +1,2 @@
-# welcome! Uchida's UnityCloud Github repogitoris
-- UnityプロジェクトやDiscordBotなども格納しています！
-- その他システム開発系のプロジェクトも格納しています！！
+# welcome! DevelopmentWorkSpace！！
+- Unityプロジェクトの保管場所やその他システム開発系のプロジェクトも格納しています！！
