@@ -23,7 +23,7 @@
 ## 💻 使用してきたOS一覧
 
 ### 🪟 Windows系（Windows OS）
-> Windows XP Home (x86) → Vista Home (x86) → 8.1 Home (x64)
+> Windows XP Home (x86) → Vista Home (x86) → 8.1 Home &Pro (x64)
 → 10 Home & Pro (x64) → 11 Pro (x64)
 ### 🐧 Ubuntu系（Debian系ディストリビューション）
 > Ubuntu 20.04 LTS → 22.04 LTS → 24.04.2 LTS
