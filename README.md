@@ -23,12 +23,12 @@
 ## 💻 使用してきたOS一覧
 
 ### 🪟 Windows系（Windows OS）
-Windows XP Home (x86) → Vista Home (x86) → 8.1 Home (x64)
+> Windows XP Home (x86) → Vista Home (x86) → 8.1 Home (x64)
 → 10 Home & Pro (x64) → 11 Pro (x64)
 ### 🐧 Ubuntu系（Debian系ディストリビューション）
 > ※用途：Minecraftサーバー（Java & Bedrock）、SMBファイル共有、Discord Bot運用など
 ### 🍎 macOS（UNIX系）
-macOS Mojave → macOS Sonoma → macOS Sequoia
+> macOS Mojave → macOS Sonoma → macOS Sequoia
 > 2024年4月より進学に伴い、制作環境をMacへ移行しました。
 
 ---
