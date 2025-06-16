@@ -39,7 +39,3 @@
 今後もどんどん制作物を追加していく予定です💪
 
 ---
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
-</p>
