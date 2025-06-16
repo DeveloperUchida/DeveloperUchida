@@ -1,12 +1,45 @@
-# welcome! DevelopmentWorkSpace！！
-- どうも！いつも何かしら突発的思いついて作品制作をしている人です！
-- このGithubアカウントは普段UnityやWeb作品,DiscordBotなどを制作する際の共有倉庫として使用しています(の割にはえらくオープンな環境ですが・・・w)
-- 普段が情報系で動いていますが、中身は案外ゲーム寄り(むしろ自分ではエンジニアの皮を被ったクリエイターだな〜と思っている人です)なので案外ゲーム作品系が多いです
-  
-- 今まで扱ってきたOSはこんな感じです！
-  # Windows系(WindowsOS系)
-- WindowsXp HomeEdition 多分x86 → WindowsVista HomeEdition x86　→ Windows8.1 HomeEdition x64 → Windows10 Home&ProEdition x64 Windows11ProEdition x64
-# Ubuntu系(Debianのみ)
-Ubuntu 20.04 LTS → Ubuntu 22.04 LTS → Ubuntu 24.04.2 LTS (Ubuntuに関してはマイクラサーバー(Java&BedLock両方)運用 兼 ファイル共有用SMBサーバー 兼 DiscordBotサーバーなど)
-# Mac系(UNIX系)
-MacOS Mojeve MacOS Sonoma → Mac OS Sequoia (2024年4月から進学に伴い制作環境をMacに移行しました)
+<h1 align="center">🎉 Welcome to DevelopmentWorkSpace!! 🎉</h1>
+
+---
+
+## 👋 はじめまして！
+いつも突発的な思いつきで作品制作をしている人です！<br>
+このGitHubアカウントでは主に **Unity**, **Web作品**, **Discord Bot** などの制作物を公開・共有しています。  
+> ⚠️ えらくオープンな倉庫ですが…それもご愛敬ということで！w
+
+---
+
+## 🎮 自己紹介
+
+- **分野：** 情報系寄り…だけど中身は **ゲーム大好き**！
+- **職種：** 「エンジニアの皮を被ったクリエイター」だと思ってます ✨
+- **よく作るもの：**
+  - ゲーム系のシステム
+  - Web連携アプリ
+  - Discord連携Bot
+
+---
+
+## 💻 使用してきたOS一覧
+
+### 🪟 Windows系（Windows OS）
+Windows XP Home (x86) → Vista Home (x86) → 8.1 Home (x64)
+→ 10 Home & Pro (x64) → 11 Pro (x64)
+### 🐧 Ubuntu系（Debian系ディストリビューション）
+> ※用途：Minecraftサーバー（Java & Bedrock）、SMBファイル共有、Discord Bot運用など
+### 🍎 macOS（UNIX系）
+macOS Mojave → macOS Sonoma → macOS Sequoia
+> 2024年4月より進学に伴い、制作環境をMacへ移行しました。
+
+---
+
+## 🚀 ぜひ、リポジトリも見ていってください！
+
+気になった作品があれば、スターやフォローもよろしくお願いします！  
+今後もどんどん制作物を追加していく予定です💪
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>
