@@ -70,7 +70,7 @@ Mojave → Sonoma → Sequoia
 ## 📱 Social Links
 
 <p align="left">
-  <a href="[https://twitter.com/YOUR_TWITTER_ID](https://x.com/vtuberCreator)" target="blank">
+  <a href="https://x.com/vtuberCreator" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
   </a>
 </p>
