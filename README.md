@@ -60,6 +60,8 @@ Mojave → Sonoma → Sequoia
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DeveloperUchida&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats"/><br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperUchida&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages"/>
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperUchida)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 <img src="https://img.shields.io/github/followers/your-github-username?label=Followers&style=flat&logo=github" alt="Followers" /><br><br>
