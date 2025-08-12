@@ -103,10 +103,6 @@ Mojave → Sonoma → Sequoia
 
 <br><br><br>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views">
-</p>
-
 ## 🚀 リポジトリを覗いてみてください！
 
 💬 気になる作品があれば、スター ⭐ やフォロー ❤️ 大歓迎！  
