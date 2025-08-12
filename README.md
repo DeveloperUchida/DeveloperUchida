@@ -78,15 +78,14 @@ Mojave → Sonoma → Sequoia
 
 ## 🛠 My Skills
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php,docker,vscode,github,unity,discord" />  
+<img src="https://skillicons.dev/icons?i=html,css,js,php,docker,vscode,github,unity,discord,cs,gcp,ps,pr,ae,me" />  
 <br />  
-※その他：CodeIgniter, VirtualBox, CakePHP, CircleCI, Firebase など
 
 ---
 
 ## 📚 Now Training
 
-<img src="https://skillicons.dev/icons?i=go,java,CLang" />
+<img src="https://skillicons.dev/icons?i=go,java,c,cpp" />
 
 ---
 
