@@ -73,5 +73,5 @@ Mojave → Sonoma → Sequoia
 これからも制作物をどんどん追加していきます 💪
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=DeveloperUchida&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views">
 </p>
