@@ -77,14 +77,14 @@ Mojave → Sonoma → Sequoia
 
 ---
 
-## 🛠 My Skills
+## 🛠 My Skills(現在と過去に触ってきた記述一覧)
 
 <img src="https://skillicons.dev/icons?i=html,css,js,php,docker,vscode,github,unity,discord,cs,gcp,ps,pr,ae,me" />  
 <br />  
 
 ---
 
-## 📚 Now Training
+## 📚 Now Training(現在習得予定の技術一覧)
 
 <img src="https://skillicons.dev/icons?i=go,java,c,cpp,unreal" />
 
