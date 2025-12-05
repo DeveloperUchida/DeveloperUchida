@@ -49,7 +49,7 @@ XP Home (x86) → Vista Home (x86) → 8.1 Home/Pro (x64)
 💡 用途：Minecraftサーバー（Java/Bedrock）、SMB共有、Discord Bot運用
 
 ### 🍎 macOS（UNIX系）
-Mojave → Sonoma → Sequoia
+Mojave → Sonoma → Sequoia → Tahoe
 
 📅 2024年4月より制作環境をMacに完全移行。
 
