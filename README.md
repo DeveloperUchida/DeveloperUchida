@@ -21,7 +21,7 @@
 🎨 突発的なひらめきで作品制作をしているクリエイターです！  
 このGitHubでは主に **Unity** をメインで公開しています。
 
-> 🖼️ GitHubアイコンは ChatGPT 作。
+> 🖼️ GitHubアイコンは ChatGPTを活用して制作。
 
 ---
 
@@ -102,7 +102,7 @@ Mojave → Sonoma → Sequoia → Tahoe
 </div>
 
 <br><br><br>
-これからも制作物をどんどん追加していきます 💪
+今後もUnityを中心に、実践的な制作物を継続的に追加していきます 💪
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DeveloperUchida&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views">
