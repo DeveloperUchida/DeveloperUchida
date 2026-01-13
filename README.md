@@ -41,11 +41,11 @@ Unityを中心に、Webアプリケーションやサーバー構築など
 - 主に Linux(Ubuntu) でのサーバー運用経験あり
 ---
 
-## 📊 GitHub Stats
+<!--## 📊 GitHub Stats-->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DeveloperUchida&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats"/><br><br>
-</p>
+</p> -->
 
 ---
 ## 📱 Social Links
