@@ -1,4 +1,4 @@
-<h1 align="center">✨ Welcome to <span style="color:#4CAF50">DevelopmentWorkSpace</span> ✨</h1>
+<h1 align="center">✨ DevelopmentWorkSpace | Unity / Web Engineer ✨</h1>
 
 <p align="center">
   <a href="https://developmentwarehouse.github.io/PortfolioWebsite/GamePortfolio/index.html" target="_blank">
@@ -17,40 +17,28 @@
   
 ---
 
-## 👋 はじめまして！
-🎨 ひらめきと実装力を掛け合わせて作品制作をしているクリエイターです！  
-このGitHubでは主に **Unity** をメインで公開しています。
-
+## 👋 About Me
+Unityを中心に、Webアプリケーションやサーバー構築など
+「実装して動かすこと」を重視して開発しています。
+チーム開発・個人開発の両方を経験しています。
 > 🖼️ GitHubアイコンは ChatGPTを活用して制作。
 
 ---
 
-## 🎮 自己紹介
-
-| 項目 | 内容 |
-|------|------|
-| **分野** | 情報系寄り（中身はかなり **ゲーム寄り**） |
-| **職種** |  エンジニア視点を持つクリエイター |
-| **よく作るもの** | 🎮 ゲームシステム<br>🌐 Webサイト |
+## ⭐ Featured Projects
+- 🛒 枕専門ECサイト（PHP / MySQL / チーム開発）
+  - 商品検索・DB設計を担当
+- 🎮 Unity：キャラクター操作ゲーム（個人制作）
+  - 入力制御・UI実装
+- 🖥 Ubuntu：Minecraftサーバー構築・運用
+  - Java/Bedrock 両対応
 
 ---
 
 ## 💻 使用OS遍歴
 
-### 🪟 Windows系
-XP Home (x86) → Vista Home (x86) → 8.1 Home/Pro (x64)
-→ 10 Home/Pro (x64) → 11 Pro (x64)
-
-### 🐧 Ubuntu系（Debian系）
-
-20.04 LTS → 22.04 LTS → 24.04.2 LTS
-
-💡 用途：Minecraftサーバー（Java/Bedrock）、SMB共有、Discord Bot運用
-
-### 🍎 macOS（UNIX系）
-Mojave → Sonoma → Sequoia → Tahoe
-
-📅 2024年4月より制作環境をMacに完全移行。
+- Windows / macOS / Ubuntu を使用
+- 主に Linux(Ubuntu) でのサーバー運用経験あり****
 
 ---
 
@@ -58,11 +46,6 @@ Mojave → Sonoma → Sequoia → Tahoe
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DeveloperUchida&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats"/><br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperUchida&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages"/>
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperUchida)](https://github.com/anuraghazra/github-readme-stats)
-
-  [![trophy](https://github-profile-trophy.vercel.app/?username=DeveloperUchida)](https://github.com/ryo-ma/github-profile-trophy)
 </p>
 
 ---
@@ -76,14 +59,14 @@ Mojave → Sonoma → Sequoia → Tahoe
 
 ---
 
-## 🛠 My Skills(現在と過去に触ってきた記述一覧)
+## 🛠 My Skills
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php,docker,vscode,github,unity,discord,cs,gcp,ps,pr,ae,me" />  
+<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,ubuntu,cs,gcp,ps,pr,ae,me" />  
 <br />  
 
 ---
 
-## 📚 Now Training(現在習得予定の技術一覧)
+## 📚 Now Training
 
 <img src="https://skillicons.dev/icons?i=go,java,c,cpp,unreal" />
 
@@ -91,7 +74,7 @@ Mojave → Sonoma → Sequoia → Tahoe
 
 <br><br><br>
 
-<div align="center">
+<!-- <div align="center">
     <h1>
         <img src="https://user-images.githubusercontent.com/44926913/175852850-3fb6c715-1856-41ff-8c1f-94ce3b03b458.gif">・・
         <img src="https://user-images.githubusercontent.com/44926913/175853109-f8850656-6704-4a8a-bee6-9aca154d929b.gif">・・
@@ -99,10 +82,12 @@ Mojave → Sonoma → Sequoia → Tahoe
         <img src="https://user-images.githubusercontent.com/44926913/175853109-f8850656-6704-4a8a-bee6-9aca154d929b.gif">・
         <img src="https://user-images.githubusercontent.com/44926913/175853154-5449d974-975e-44a6-ab84-a86031265e40.gif">・・・・
     </h1>
-</div>
+</div> -->
 
 <br><br><br>
-今後もUnityを中心に、実践的な制作物を継続的に追加していきます 💪
+## 🚀 Interests
+Unityを用いたインタラクティブなコンテンツ開発や、
+エンタメ領域を技術で支えるプロダクト開発に興味があります。
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DeveloperUchida&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views">
