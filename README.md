@@ -38,8 +38,7 @@ Unityを中心に、Webアプリケーションやサーバー構築など
 ## 💻 使用OS遍歴
 
 - Windows / macOS / Ubuntu を使用
-- 主に Linux(Ubuntu) でのサーバー運用経験あり****
-
+- 主に Linux(Ubuntu) でのサーバー運用経験あり
 ---
 
 ## 📊 GitHub Stats
@@ -61,7 +60,7 @@ Unityを中心に、Webアプリケーションやサーバー構築など
 
 ## 🛠 My Skills
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,ubuntu,cs,gcp,ps,pr,ae,me" />  
+<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,cs,unity,ubuntu,git" />  
 <br />  
 
 ---
